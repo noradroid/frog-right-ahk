@@ -14,7 +14,7 @@ I made the following changes in this version:
   - LShift + z: <
   - LShift + x: >
 - Removed secondary key mappings for:
-  - y -> quote (')
+  - y: quote (')
 - Changed secondary key mappings for:
   - b: delete forward -> comma (,)
   - n: backspace / delete backward -> period (.)
